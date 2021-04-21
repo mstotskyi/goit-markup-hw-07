@@ -175,7 +175,7 @@ img {
   color: var(--logo-dark-color);
 }
 
-.contact-link {
+.header__contact-link {
   color: var(--main-text-color);
 }
 .header__contact-link {
